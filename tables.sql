@@ -1,0 +1,10 @@
+CREATE TABLE Credit (
+    id INT AUTO INCREMENT PRIMARY KEY,
+    statement_date DATE NOT NULL,
+    description VARCHAR(255),
+    amount DECIMAL(15,2) NOT NULL,
+    category VARCHAR(100),
+    sub_category VARCHAR(100),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+)
