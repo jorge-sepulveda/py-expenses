@@ -1,4 +1,6 @@
-venv/
-*.csv
+venv/*
+!venv/.gitkeep
+stmts/*.csv
 .DS_Store
 *.duckdb
+__pycache__/
