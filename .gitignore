@@ -1,6 +1,5 @@
-venv/*
-!venv/.gitkeep
-stmts/*.csv
+stmts/*
+!stmts/.gitkeep
 .DS_Store
 *.duckdb
 __pycache__/
