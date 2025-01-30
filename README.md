@@ -20,7 +20,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Drop the statements into the `statements` folder(or your own folder) and with that path, you'll instantiate `CreditCard` with the card codename, the file path and the company that the CSV belongs to. I've some fake data inside of `src` to generate fake amex data and use that to maintain privacy. In `main.py`
+Drop the statements into the `statements` folder(or your own folder) and with that path. I've setup gitignore to ignore all the files inside that folder so no sensitive data will be pushed there. Afterwards, you'll instantiate `CreditCard` with the card codename, the file path and the company that the CSV belongs to. I've some fake data inside of `src` to generate fake amex data and use that to maintain privacy. In `main.py`
 it will look like this. 
 
 ```python
@@ -72,4 +72,6 @@ D select * from Credit
 ```
 
 And there we have it! I plan to add more cards and even using graph libraries for easier visualization. Feel free to follow development on my blog.
+
+
 [https://jorgesepulveda.dev/](https://jorgesepulveda.dev/)
