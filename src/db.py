@@ -39,13 +39,12 @@ class db:
         checking_stmt = """
         CREATE TABLE Checking (
             id INTEGER PRIMARY KEY DEFAULT nextval('checking_id_seq'),
-            details VARCHAR(10) NOT NULL,
             posting_date DATE NOT NULL,
             description VARCHAR(255),
             amount DECIMAL(15,2) NOT NULL,
             type VARCHAR(20) NOT NULL,
-            remaining_balance DECIMAL(15,2) NOT NULL
-
+            remaining_balance DECIMAL(15,2) NOT NULL,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
         )
         """
         statements = [credit_sequence,checking_sequence, credit_stmt, checking_stmt]
@@ -76,4 +75,16 @@ class db:
             print("Empty dataframe!")
             return 1
 
+
+    def insert_to_checking(self,c_data):
+        if self.conn == None:
+            print("empty db connector")
+            return 1
+        if len(c_data) > 0:
+            for index, row in c_data.iterrows():
+                self.conn.execute(f"INSERT INTO Checking(posting_date, description, type, amount, remaining_balance) VALUES (?,?,?,?,?)", (row["posting_date"], row["description"], row["type"], row["amount"], row["remaining_balance"]))
+            return 0
+        else:
+            print("Empty dataframe!")
+            return 1
 

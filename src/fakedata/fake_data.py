@@ -27,7 +27,7 @@ amexCategories = ['Merchandise & Supplies-General Retail',
  'Entertainment-General Attractions','Other-Charities']
 
 
-num_rows = 20
+num_rows = 1000
 
 data = {
     "Date" : [fake.date(pattern="%m/%d/%Y") for _ in range(num_rows)],
@@ -36,4 +36,4 @@ data = {
     "Category": [random.choice(amexCategories) for _ in range(num_rows)]
 }
 df = pd.DataFrame(data)
-df.to_csv("fake_amex.csv", index=False)
+df.to_csv("f_red.csv", index=False)

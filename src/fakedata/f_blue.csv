@@ -1,0 +1,1001 @@
+Date,Description,Amount,Category
+02/09/1984,"Kerr, Douglas and Fletcher",1050.22,Business Services-Mailing & Shipping
+12/22/1983,"Taylor, Garza and Mayo",2296.12,Merchandise & Supplies-Department Stores
+02/01/1987,"Berg, Dixon and Crawford",-4470.71,Merchandise & Supplies-Hardware Supplies
+07/26/2008,Yang Group,-4830.55,Restaurant-Restaurant
+09/26/2007,Brooks-Mitchell,-2399.79,Communications-Other Telecom
+12/27/2010,Young-Williams,-4278.37,Merchandise & Supplies-Electronics Stores
+01/04/2014,Carter-Blankenship,4977.3,Merchandise & Supplies-Furnishing
+07/14/2000,"Anderson, Terrell and Bailey",-4971.85,Other-Charities
+11/22/1986,"Reynolds, Jones and Bell",4861.76,Merchandise & Supplies-Book Stores
+02/19/2012,"Hendrix, Oconnor and Robinson",305.88,Merchandise & Supplies-Groceries
+09/20/1984,"Yang, King and Anderson",1556.38,Transportation-Fuel
+07/22/2020,Wilson Ltd,-2118.31,Merchandise & Supplies-Mail Order
+06/09/2023,"Gutierrez, Benton and Miller",1239.69,Merchandise & Supplies-Internet Purchase
+08/03/2022,Thornton-Herrera,-2354.2,Communications-Other Telecom
+02/28/1973,Moore-Oliver,2702.75,Merchandise & Supplies-Department Stores
+07/06/2006,"Johnson, Howe and Owens",4514.11,Merchandise & Supplies-Department Stores
+09/22/2017,"Hanson, Stewart and Bauer",2431.07,Business Services-Mailing & Shipping
+08/22/1971,Johnson-Austin,-4990.05,Transportation-Auto Services
+02/13/2009,Baker-Stafford,858.26,Business Services-Office Supplies
+09/06/2020,"Fisher, Jackson and Nichols",-1921.68,Communications-Cable & Internet Comm
+07/19/2009,"Austin, Garcia and Fox",-562.03,Business Services-Mailing & Shipping
+08/03/1997,Hernandez Group,3854.38,Communications-Other Telecom
+03/23/1976,Holmes Group,-4234.0,Communications-Other Telecom
+07/07/2014,Castro PLC,-343.98,Merchandise & Supplies-General Retail
+03/23/2017,Hanson-Buckley,-2435.23,Entertainment-Associations
+11/02/1979,Kim-Rodriguez,-346.94,Business Services-Professional Services
+02/01/1991,"Ford, Olsen and Roberts",2606.44,Business Services-Mailing & Shipping
+07/06/1976,"Delacruz, Lee and Herrera",-3790.85,Other-Miscellaneous
+11/02/1974,"Jefferson, Graves and Mitchell",-1397.81,Entertainment-Associations
+12/13/1981,"Williams, Garcia and Walter",3522.7,Transportation-Fuel
+08/16/1999,Orozco Ltd,-1843.08,Business Services-Office Supplies
+10/28/2012,Watson LLC,2947.33,Merchandise & Supplies-Internet Purchase
+09/19/1973,Wyatt-Miller,237.8,Business Services-Professional Services
+05/09/2016,Bowers PLC,1831.23,Merchandise & Supplies-Mail Order
+01/26/1975,"Williams, Sutton and Johnson",4493.45,Merchandise & Supplies-Groceries
+06/22/2019,Wheeler Inc,143.54,Merchandise & Supplies-Hardware Supplies
+10/12/2015,Holmes Group,-3151.55,Business Services-Mailing & Shipping
+10/29/1995,Hood Inc,-505.27,Merchandise & Supplies-Furnishing
+02/21/2009,Johnson PLC,2209.57,Merchandise & Supplies-Clothing Stores
+06/08/2022,Sandoval Ltd,259.58,Transportation-Auto Services
+03/20/1979,Mcknight LLC,2678.97,Communications-Cable & Internet Comm
+05/18/1984,"Bradley, Cooper and Sanders",2761.79,Communications-Other Telecom
+05/06/2020,Tyler Inc,4147.25,Restaurant-Bar & Café
+07/29/2006,Taylor Ltd,2117.15,Merchandise & Supplies-Computer Supplies
+06/05/1989,Stephenson PLC,-551.76,Merchandise & Supplies-Electronics Stores
+01/10/1971,Cardenas-Williams,-1438.89,Merchandise & Supplies-Wholesale Stores
+02/06/1996,Jones and Sons,-2844.76,Entertainment-General Attractions
+01/02/2012,"Nelson, Sanders and Callahan",-2257.04,Transportation-Parking Charges
+03/07/2011,"Miller, Young and Smith",-2139.52,Communications-Other Telecom
+11/15/2013,"Mcdonald, Moore and Mayer",4311.22,Merchandise & Supplies-Electronics Stores
+02/01/2023,"Wilcox, Parker and Wilson",3392.57,Transportation-Parking Charges
+03/03/1987,Mcgee-Martin,-1910.79,Communications-Cable & Internet Comm
+05/01/1987,Jones-Wise,3930.62,Communications-Other Telecom
+08/28/1982,Reyes PLC,722.6,Restaurant-Bar & Café
+03/09/1977,"Welch, Lester and Johnson",-2841.56,Transportation-Parking Charges
+08/26/2017,"Gomez, Harris and Taylor",2068.61,Merchandise & Supplies-Wholesale Stores
+05/01/1996,Johnson-Ingram,-3071.17,Other-Miscellaneous
+07/03/2018,Garcia PLC,741.88,Entertainment-Associations
+11/04/1980,"Petersen, Price and Bass",-1584.79,Merchandise & Supplies-Pharmacies
+11/19/1983,Hunter LLC,-4220.24,Merchandise & Supplies-Mail Order
+12/22/1976,Edwards PLC,1377.62,Other-Charities
+08/11/1994,Edwards-Mills,3795.91,Restaurant-Restaurant
+04/28/1985,Morris Group,4196.6,Merchandise & Supplies-Clothing Stores
+06/12/2014,Smith-Cook,-4891.72,Business Services-Other Services
+10/18/2023,Thomas-Johnson,4496.94,Business Services-Other Services
+04/18/1998,Mcdonald-Calhoun,1338.43,Merchandise & Supplies-Wholesale Stores
+01/26/1986,"Marquez, King and Hoover",-4104.17,Transportation-Parking Charges
+12/23/1981,Davis-Miller,-3787.53,Communications-Other Telecom
+09/20/1980,"Brock, Johnson and Andrews",935.96,Business Services-Internet Services
+02/18/2009,"Smith, Craig and Weber",2367.21,Business Services-Mailing & Shipping
+02/26/1988,"Stewart, Mason and Davis",3691.37,Transportation-Parking Charges
+04/06/1998,Edwards and Sons,4829.85,Merchandise & Supplies-Mail Order
+04/14/1982,"Hill, Mendoza and Jones",3824.25,Other-Charities
+12/04/2013,"York, Griffith and Wilson",4054.12,Restaurant-Restaurant
+04/06/2005,Nelson-Ramirez,4558.63,Business Services-Office Supplies
+08/26/1992,"Armstrong, Houston and Oliver",-2964.95,Transportation-Auto Services
+06/11/1978,Knight-Davis,3377.06,Entertainment-General Attractions
+09/05/1981,Reyes Inc,-4944.64,Communications-Cable & Internet Comm
+12/23/1973,Cox-James,3180.1,Merchandise & Supplies-Mail Order
+12/07/1989,Rose-Young,-4761.54,Other-Charities
+10/21/1980,"Silva, Barnes and Frederick",-4733.15,Business Services-Other Services
+12/28/2020,Costa-Case,-3931.4,Fees & Adjustments-Fees & Adjustments
+03/04/1974,Werner-Nicholson,3467.16,Merchandise & Supplies-Computer Supplies
+07/20/2010,Smith Ltd,161.28,Business Services-Other Services
+06/18/1981,"Williams, Cortez and Maynard",-4292.63,Other-Miscellaneous
+11/24/1971,Bishop PLC,-3253.03,Other-Charities
+02/08/1983,Williams Ltd,883.57,Business Services-Office Supplies
+05/10/1991,Rodriguez-Williams,3844.34,Business Services-Office Supplies
+09/24/2014,Wright-Thomas,1858.53,Business Services-Internet Services
+12/12/1993,Short-Mitchell,-245.31,Merchandise & Supplies-Wholesale Stores
+08/25/1989,"Brown, Riley and Reyes",3087.35,Business Services-Mailing & Shipping
+05/22/1992,"Wells, Jordan and Davies",4767.23,Entertainment-General Attractions
+04/06/1992,Flores-Johnson,2916.76,Merchandise & Supplies-Mail Order
+06/27/1999,Munoz-Nelson,-3070.07,Restaurant-Bar & Café
+06/29/2023,Stuart and Sons,-88.3,Business Services-Mailing & Shipping
+08/16/2005,"Morales, Short and Smith",1470.35,Merchandise & Supplies-Internet Purchase
+10/19/1992,Cortez-Coleman,-4516.52,Business Services-Office Supplies
+05/09/2008,"Ashley, Horne and Ramirez",-1658.22,Entertainment-General Attractions
+03/22/2012,Beltran Inc,-1054.46,Business Services-Office Supplies
+12/27/2005,Lee-Lam,647.7,Merchandise & Supplies-Department Stores
+09/30/2004,Kelly-Adkins,-1752.24,Fees & Adjustments-Fees & Adjustments
+01/02/1982,Lam Group,-3095.67,Business Services-Internet Services
+03/14/2009,"Ingram, Ibarra and Carr",4375.97,Merchandise & Supplies-Book Stores
+05/25/1982,Jarvis Ltd,-761.49,Communications-Cable & Internet Comm
+11/08/2019,Dunn-Kennedy,649.76,Merchandise & Supplies-Computer Supplies
+06/19/1974,Fernandez LLC,2653.12,Business Services-Mailing & Shipping
+07/19/1984,"Beard, Brewer and Anderson",-4853.88,Transportation-Fuel
+06/14/1975,Snyder PLC,2771.93,Business Services-Internet Services
+12/06/2007,Pruitt-Lee,4458.23,Other-Miscellaneous
+09/12/1998,Hicks-Moore,-2852.28,Merchandise & Supplies-Computer Supplies
+06/07/2018,"Jones, Miles and Cline",-2839.07,Restaurant-Bar & Café
+04/15/1981,"Brown, Cohen and Myers",2577.61,Transportation-Fuel
+06/19/2011,Adams-Morales,3996.83,Communications-Other Telecom
+01/11/2004,Erickson-Lynch,-2723.15,Other-Miscellaneous
+06/07/1995,Patel and Sons,-2582.96,Transportation-Fuel
+06/28/1986,Harrison-Wells,2739.37,Business Services-Other Services
+12/15/2021,Coleman LLC,-3145.56,Merchandise & Supplies-General Retail
+07/12/1983,Cobb-Higgins,4331.83,Transportation-Parking Charges
+01/12/1997,Reyes-Garcia,-1458.78,Merchandise & Supplies-Hardware Supplies
+12/05/2012,"Nguyen, Francis and Hardy",-2704.94,Fees & Adjustments-Fees & Adjustments
+11/01/1993,Preston Group,1421.86,Merchandise & Supplies-Department Stores
+02/07/2018,Rojas Ltd,4677.41,Transportation-Auto Services
+08/27/2002,"King, White and Soto",1394.01,Restaurant-Restaurant
+10/18/1979,Love-Bradley,-1061.92,Merchandise & Supplies-Pharmacies
+07/18/2017,"Mckenzie, Cunningham and Curry",4487.46,Transportation-Auto Services
+08/05/1987,Livingston Inc,3746.15,Transportation-Parking Charges
+11/13/1992,Smith Group,4417.2,Business Services-Professional Services
+06/20/2006,"Thompson, Allen and Hutchinson",-1672.59,Communications-Other Telecom
+06/10/1989,Young-Mcguire,3204.95,Transportation-Parking Charges
+12/13/1990,"Peterson, Rios and Garrett",-1510.76,Business Services-Internet Services
+07/29/2004,Mendez-James,4538.17,Fees & Adjustments-Fees & Adjustments
+07/04/1982,Lewis-Velasquez,7.06,Merchandise & Supplies-Electronics Stores
+03/12/1984,Rice-Freeman,-2048.22,Transportation-Fuel
+12/31/2000,Brown Ltd,-1726.9,Business Services-Office Supplies
+02/01/2008,Smith-Morris,-3799.75,Merchandise & Supplies-Computer Supplies
+09/13/1984,"Harding, Lyons and Gordon",-2460.65,Merchandise & Supplies-Electronics Stores
+12/30/2016,"Morton, Reed and Nelson",4280.04,Transportation-Fuel
+04/19/2004,Griffith Ltd,-2073.8,Merchandise & Supplies-Computer Supplies
+12/19/2004,Schmidt-Hines,-1482.97,Other-Miscellaneous
+06/15/2014,"Bautista, Baker and Adkins",3250.8,Restaurant-Restaurant
+01/12/1978,"Dougherty, Moreno and Acosta",1817.3,Merchandise & Supplies-Book Stores
+05/21/2017,Baxter Ltd,-4622.11,Merchandise & Supplies-Pharmacies
+03/27/1975,Williams-Pearson,-580.21,Business Services-Internet Services
+09/22/1986,"Gibson, Brooks and Pacheco",-4562.71,Entertainment-Associations
+09/28/1970,"Taylor, Phillips and Peterson",1866.83,Communications-Other Telecom
+01/30/1977,"Hall, Lee and Bullock",-1064.71,Communications-Other Telecom
+06/02/1992,"Scott, Richards and Weber",295.9,Entertainment-General Attractions
+12/01/1998,"Miller, Rose and Gomez",4230.82,Transportation-Parking Charges
+03/01/2009,"Smith, Garcia and Ayala",841.89,Merchandise & Supplies-Computer Supplies
+02/14/1986,Flores-Villarreal,-1589.12,Restaurant-Bar & Café
+07/14/2001,"Sanders, Gonzalez and Jefferson",-3467.66,Merchandise & Supplies-Pharmacies
+06/11/1988,Chapman-Lawrence,-3975.67,Fees & Adjustments-Fees & Adjustments
+03/24/2024,"Kennedy, Ibarra and Perry",-1736.59,Restaurant-Restaurant
+08/03/1987,Wilson LLC,1163.67,Merchandise & Supplies-Mail Order
+02/21/2001,Williams-Franklin,1125.47,Merchandise & Supplies-Furnishing
+07/22/2003,Ball Inc,-4327.79,Business Services-Other Services
+11/14/1984,Green-Smith,4328.87,Transportation-Auto Services
+09/22/2022,Schultz-Cobb,549.49,Merchandise & Supplies-Furnishing
+10/18/2002,"Simmons, Nunez and Brooks",-1683.68,Entertainment-Associations
+09/14/1996,Taylor PLC,-3491.41,Merchandise & Supplies-Mail Order
+10/03/1991,Fox-Knight,4762.35,Merchandise & Supplies-Wholesale Stores
+01/09/1972,"Black, Velez and Henderson",-2465.9,Transportation-Fuel
+07/12/2007,Meyers and Sons,-2676.81,Business Services-Mailing & Shipping
+01/10/2001,Newton LLC,1153.68,Communications-Cable & Internet Comm
+08/10/1974,"Baker, Jackson and Santos",-1768.78,Merchandise & Supplies-Internet Purchase
+01/21/2013,Evans-Frey,2255.31,Merchandise & Supplies-Computer Supplies
+05/20/2007,"Jackson, Lopez and Wright",4556.38,Merchandise & Supplies-Groceries
+07/01/1981,"Nolan, Foster and Morgan",2711.19,Entertainment-Associations
+09/03/1989,Houston-Cobb,2717.11,Communications-Cable & Internet Comm
+02/08/1991,Martinez and Sons,1446.49,Merchandise & Supplies-General Retail
+12/11/1973,"Christian, Garcia and Morrison",-2582.91,Merchandise & Supplies-Internet Purchase
+05/09/1996,Jackson-Tran,3471.57,Merchandise & Supplies-Mail Order
+03/08/1978,Scott LLC,3789.14,Communications-Cable & Internet Comm
+09/23/1993,Cameron LLC,-1545.1,Entertainment-Associations
+11/19/1980,Stokes Inc,4070.99,Merchandise & Supplies-Furnishing
+06/06/1998,Mcdaniel-Brown,-3179.63,Fees & Adjustments-Fees & Adjustments
+08/31/1975,Turner-Lopez,-42.3,Business Services-Internet Services
+12/09/1987,Romero LLC,-777.3,Restaurant-Bar & Café
+09/17/2015,Rodriguez Ltd,3616.37,Communications-Other Telecom
+11/04/2021,Brown PLC,2320.17,Other-Charities
+02/08/2001,Wood Ltd,3261.72,Business Services-Internet Services
+04/14/2015,"Brown, King and Gilbert",-2339.45,Merchandise & Supplies-Book Stores
+11/08/1995,Little and Sons,1058.38,Merchandise & Supplies-Computer Supplies
+07/18/2013,"Rogers, Miller and Warner",2060.96,Restaurant-Bar & Café
+01/25/1988,Perry-Roman,1246.09,Merchandise & Supplies-Internet Purchase
+04/15/1991,Mejia Ltd,-94.03,Merchandise & Supplies-Computer Supplies
+05/16/1998,Smith-Mccormick,-3943.13,Merchandise & Supplies-Clothing Stores
+06/25/2009,Shaw Ltd,-2991.45,Other-Charities
+01/11/2001,Hudson Group,4976.51,Merchandise & Supplies-Clothing Stores
+05/27/1993,"Gonzales, Underwood and Phillips",4378.36,Transportation-Fuel
+10/15/2013,Brady-Boyd,283.82,Merchandise & Supplies-Internet Purchase
+11/29/2004,Gonzalez Group,-4792.81,Business Services-Professional Services
+08/05/2001,Lucas-Howell,-2755.99,Merchandise & Supplies-Furnishing
+11/19/1997,Nguyen-Mcbride,1251.27,Merchandise & Supplies-Pharmacies
+02/04/1983,Smith-Larson,-1363.02,Other-Miscellaneous
+06/05/2016,"Alvarez, Kent and Bell",-2816.71,Other-Miscellaneous
+02/18/2013,"Rich, Warner and Jones",-3528.27,Restaurant-Bar & Café
+09/23/2000,Grant-Davis,1703.79,Restaurant-Restaurant
+12/03/1978,"Salazar, Price and Smith",-2973.03,Entertainment-Associations
+03/16/1994,Moreno-Parker,290.68,Communications-Other Telecom
+06/01/1983,"Mack, Rhodes and Mills",2380.83,Merchandise & Supplies-Hardware Supplies
+03/28/2022,Vasquez-Hamilton,-3764.39,Merchandise & Supplies-Book Stores
+08/20/1979,Meyer-Madden,-3215.08,Entertainment-General Attractions
+01/24/1979,"Hicks, Romero and Willis",3454.56,Merchandise & Supplies-Computer Supplies
+06/05/1987,Johnson Ltd,2704.51,Business Services-Internet Services
+09/10/1981,"Hudson, Hill and Moon",1625.91,Merchandise & Supplies-Internet Purchase
+12/10/2016,"Ewing, Collier and Garcia",-1305.62,Business Services-Office Supplies
+01/03/2015,"Shannon, Simmons and Nguyen",-3754.68,Entertainment-Associations
+07/05/1976,"Edwards, Brown and Brewer",4395.05,Merchandise & Supplies-Internet Purchase
+09/05/2015,Bullock and Sons,-2650.11,Transportation-Fuel
+08/06/1974,Hebert Inc,4406.35,Communications-Other Telecom
+11/14/1988,"Edwards, Bell and Wilson",-3118.83,Merchandise & Supplies-Hardware Supplies
+09/16/2024,"Gonzalez, Guzman and Garcia",-1353.61,Communications-Cable & Internet Comm
+12/01/1994,Garcia-Walker,-1392.08,Business Services-Mailing & Shipping
+07/23/2019,"Simmons, Ramos and Martin",2541.06,Other-Charities
+09/11/1983,"Phillips, Romero and Perez",3985.42,Other-Miscellaneous
+01/19/1981,Jackson-Mccullough,4191.39,Entertainment-Associations
+02/24/2007,Hayden and Sons,-1958.48,Merchandise & Supplies-General Retail
+08/16/2007,Rose LLC,-196.46,Transportation-Auto Services
+08/03/2003,James-Nunez,2169.95,Merchandise & Supplies-Electronics Stores
+03/05/2022,Parker-Kennedy,1972.4,Business Services-Professional Services
+09/02/2014,Hicks-Ramirez,2295.03,Merchandise & Supplies-Book Stores
+08/15/1984,Ward-Lynn,4592.09,Business Services-Professional Services
+05/23/2013,"Scott, Pena and Lopez",2378.27,Other-Miscellaneous
+06/12/2002,Torres LLC,6.3,Merchandise & Supplies-Department Stores
+10/04/2000,"Peterson, Brooks and Shaffer",-2404.02,Business Services-Other Services
+10/13/2004,Barker-Moody,-2592.47,Business Services-Other Services
+10/18/2012,"Douglas, Garcia and Gonzalez",-312.74,Merchandise & Supplies-Electronics Stores
+11/28/1978,Reyes-Sparks,2278.24,Restaurant-Restaurant
+07/06/1989,Knight Inc,-4600.75,Other-Charities
+09/10/2008,Macdonald Group,-1621.52,Transportation-Fuel
+05/29/2000,Hammond-Wheeler,2307.14,Merchandise & Supplies-Internet Purchase
+10/20/2021,Pratt Inc,4052.79,Business Services-Professional Services
+12/18/2005,Wade-Hughes,2942.27,Merchandise & Supplies-Furnishing
+04/14/1979,"Mcgrath, Adams and Bridges",-3438.92,Merchandise & Supplies-Clothing Stores
+02/08/2000,Dennis and Sons,-1768.05,Merchandise & Supplies-Wholesale Stores
+05/06/2016,Evans-Fletcher,-1846.55,Merchandise & Supplies-Mail Order
+05/10/1988,Patterson-Garrison,4219.68,Merchandise & Supplies-Hardware Supplies
+07/02/2001,Sullivan-Brown,2214.2,Merchandise & Supplies-Hardware Supplies
+06/08/2010,Booth Group,3192.5,Business Services-Other Services
+04/10/2022,"Ayala, Sutton and Daniels",3658.81,Business Services-Internet Services
+11/18/1972,Lucero-Mason,-1145.59,Transportation-Parking Charges
+06/29/1979,Anderson-Wilson,1655.41,Business Services-Mailing & Shipping
+04/16/1987,Warren-Franklin,1899.06,Merchandise & Supplies-Groceries
+03/24/2013,"Parker, Thompson and Austin",-772.37,Transportation-Auto Services
+04/12/2002,Mitchell-Hughes,3584.86,Business Services-Mailing & Shipping
+01/22/1998,"Perry, Smith and Williams",-1926.81,Entertainment-General Attractions
+04/15/2018,"Rodriguez, Wheeler and Singh",4878.28,Merchandise & Supplies-Internet Purchase
+08/31/2000,Moore-Turner,-446.41,Transportation-Parking Charges
+01/06/1973,Berry Inc,3076.49,Merchandise & Supplies-Wholesale Stores
+07/06/1974,Garcia PLC,-2591.43,Business Services-Internet Services
+05/01/1982,Cruz Inc,2973.84,Merchandise & Supplies-Wholesale Stores
+12/19/2023,Cantu LLC,-1510.04,Entertainment-Associations
+01/02/2011,Reid-Cross,-4155.58,Merchandise & Supplies-Groceries
+06/22/2018,Davis Inc,1417.31,Merchandise & Supplies-Wholesale Stores
+11/30/1975,Wagner Ltd,1353.68,Merchandise & Supplies-Electronics Stores
+11/16/2016,Brown-Jackson,4228.72,Fees & Adjustments-Fees & Adjustments
+03/18/1974,"Brown, Norton and Hamilton",98.8,Merchandise & Supplies-Computer Supplies
+03/09/1986,Marsh-Cox,-2439.48,Entertainment-Associations
+11/13/2009,"Cummings, Saunders and Martinez",-702.81,Entertainment-Associations
+05/15/2001,"Mathis, Richardson and Sanchez",3241.96,Merchandise & Supplies-General Retail
+12/02/2011,Taylor-Mcdowell,-4825.97,Merchandise & Supplies-Book Stores
+05/10/1981,Moran Inc,-3648.17,Merchandise & Supplies-Hardware Supplies
+02/13/1974,Edwards-Hall,-4412.21,Restaurant-Restaurant
+08/17/2022,Oconnor Inc,-2578.11,Business Services-Mailing & Shipping
+05/27/2024,Peck-Henderson,-2408.1,Business Services-Professional Services
+04/08/2004,Hardy-Sanders,-561.69,Merchandise & Supplies-Electronics Stores
+10/06/2009,Valdez Ltd,2549.53,Entertainment-Associations
+01/21/2002,Thompson-Phillips,4579.57,Other-Miscellaneous
+04/04/1977,Rojas-Gregory,-985.58,Merchandise & Supplies-Groceries
+07/27/2008,Parks Ltd,-1040.3,Entertainment-Associations
+05/17/2016,Rivera-Horton,580.71,Merchandise & Supplies-Electronics Stores
+11/11/1985,"Mann, Singh and Jennings",4244.16,Entertainment-General Attractions
+01/07/1993,Jenkins-Gardner,-220.82,Communications-Cable & Internet Comm
+03/22/1983,Love-Navarro,2241.1,Transportation-Parking Charges
+09/21/2011,White PLC,3451.67,Merchandise & Supplies-Electronics Stores
+05/25/2014,"Williams, Roy and Brown",-574.14,Business Services-Internet Services
+05/08/2021,Erickson Ltd,-4840.43,Transportation-Fuel
+10/14/1991,Romero-Wu,-1330.62,Merchandise & Supplies-Groceries
+03/17/1990,Liu-Morris,-1512.68,Transportation-Fuel
+09/18/2010,Dickson-Richards,500.05,Communications-Cable & Internet Comm
+07/06/1979,Jones LLC,-3070.48,Entertainment-Associations
+05/30/2013,Thomas and Sons,1971.84,Transportation-Auto Services
+08/30/1980,Lopez Inc,1727.04,Merchandise & Supplies-Clothing Stores
+04/24/1995,Hart Group,101.91,Transportation-Auto Services
+06/08/2006,"Brooks, Cantu and Smith",-3285.89,Business Services-Office Supplies
+03/03/1995,Carter LLC,-4849.17,Merchandise & Supplies-Computer Supplies
+06/30/2007,"Smith, Gutierrez and Warren",2376.81,Restaurant-Restaurant
+03/05/1985,Cunningham PLC,-3660.76,Merchandise & Supplies-Pharmacies
+12/16/2018,Allen and Sons,-371.66,Merchandise & Supplies-Clothing Stores
+09/30/1976,Hicks-Lawrence,-1831.02,Business Services-Office Supplies
+03/08/2001,Lane-Mcdonald,2584.32,Merchandise & Supplies-Department Stores
+05/25/2002,"Huerta, Jones and Castro",1548.65,Entertainment-General Attractions
+01/16/2011,Stephens-Richardson,-4745.01,Entertainment-General Attractions
+12/06/2017,Vasquez-Christensen,-2309.32,Merchandise & Supplies-Clothing Stores
+04/19/2007,Ortiz PLC,-3854.12,Business Services-Mailing & Shipping
+05/19/1997,"Schroeder, Parker and Blackburn",-1036.62,Communications-Other Telecom
+05/12/2017,Bernard-Martinez,829.79,Entertainment-Associations
+02/12/1979,Kaufman and Sons,-1782.21,Communications-Cable & Internet Comm
+08/06/1978,"Carroll, Diaz and Adams",-247.8,Business Services-Other Services
+07/20/1985,Marshall and Sons,2057.75,Fees & Adjustments-Fees & Adjustments
+09/06/2021,Flores Group,-499.16,Business Services-Internet Services
+03/14/1989,Vega-James,3495.41,Entertainment-Associations
+07/15/1981,White-Thomas,4031.98,Merchandise & Supplies-Groceries
+06/11/2005,"Newton, Weiss and Jones",1640.02,Other-Charities
+04/22/1980,Patel and Sons,-1247.41,Merchandise & Supplies-Wholesale Stores
+12/04/1976,"Bryant, Smith and Rodriguez",2520.52,Merchandise & Supplies-Computer Supplies
+06/23/1997,Gordon PLC,-695.94,Merchandise & Supplies-Furnishing
+12/05/2002,Coleman Inc,2491.43,Communications-Other Telecom
+06/14/1972,Bates-Wolf,1891.22,Merchandise & Supplies-Internet Purchase
+09/06/1970,Foley Group,-544.54,Merchandise & Supplies-Hardware Supplies
+02/27/2017,"Wood, Rodriguez and Bullock",466.32,Communications-Cable & Internet Comm
+02/02/1984,Rodriguez Inc,3777.06,Entertainment-General Attractions
+07/04/2006,Buckley-Carter,-1158.54,Merchandise & Supplies-Computer Supplies
+03/21/1979,Boyle-Odonnell,-573.32,Merchandise & Supplies-Department Stores
+12/17/2019,Gutierrez PLC,826.44,Transportation-Fuel
+04/19/2011,"Diaz, Brown and Harvey",4502.53,Business Services-Mailing & Shipping
+05/06/1981,Woodard Inc,-769.21,Communications-Other Telecom
+10/02/1990,"Reyes, Henderson and Goodman",2865.83,Business Services-Mailing & Shipping
+08/15/2015,"Estrada, Garcia and Boyd",4035.64,Other-Miscellaneous
+05/25/1985,Davis Inc,-4588.11,Entertainment-Associations
+09/16/1972,Gilbert PLC,1148.58,Transportation-Fuel
+12/23/2009,Franklin-Marsh,1644.09,Business Services-Office Supplies
+03/01/1983,"Atkins, Montgomery and Mathews",-4147.98,Merchandise & Supplies-Computer Supplies
+09/09/2010,Malone Group,3320.22,Business Services-Professional Services
+03/01/1988,Phillips LLC,-3506.39,Merchandise & Supplies-Electronics Stores
+02/01/1974,Diaz-Ochoa,3632.7,Merchandise & Supplies-Department Stores
+05/29/2009,Wilson-Burton,2771.25,Other-Charities
+01/10/1994,Baldwin-Shaw,2651.3,Merchandise & Supplies-Book Stores
+04/17/1994,"Wilson, Patel and Miller",4787.53,Merchandise & Supplies-Book Stores
+07/09/2010,Cabrera-Moran,-1734.53,Entertainment-General Attractions
+05/01/2017,Chavez-Gutierrez,-1754.95,Transportation-Fuel
+04/02/1972,Powell-Horn,-193.69,Merchandise & Supplies-Computer Supplies
+12/13/2019,Craig-Thomas,4911.89,Restaurant-Bar & Café
+07/31/1971,"Smith, Wilson and Mcgee",-1189.93,Restaurant-Restaurant
+09/19/1981,"Neal, Banks and Evans",2887.27,Merchandise & Supplies-Wholesale Stores
+09/01/1992,Howard LLC,919.58,Transportation-Fuel
+10/12/2004,Dunn-Bell,4879.92,Business Services-Mailing & Shipping
+06/25/2023,Powell PLC,3995.66,Merchandise & Supplies-Groceries
+08/10/2011,Hancock PLC,1653.76,Business Services-Professional Services
+05/24/2011,Lewis LLC,-4458.53,Business Services-Professional Services
+11/18/1980,"Ruiz, Wolf and Martin",3562.07,Other-Charities
+10/15/2019,Harrison Group,-670.65,Restaurant-Restaurant
+05/11/2005,"Williams, Lopez and Rogers",-914.99,Merchandise & Supplies-Internet Purchase
+09/06/1978,Woodard Inc,772.46,Restaurant-Restaurant
+06/20/1970,"Romero, Drake and Moore",3393.05,Restaurant-Restaurant
+08/31/2012,Dunlap Group,-243.85,Restaurant-Bar & Café
+11/21/2024,Clark-Watts,3708.67,Entertainment-General Attractions
+03/22/1984,Roberts Group,-4506.86,Business Services-Professional Services
+12/04/1973,Nelson-Jones,-4093.13,Restaurant-Bar & Café
+08/01/1991,Walker-Hughes,-2810.6,Merchandise & Supplies-Computer Supplies
+12/29/1972,Fowler LLC,2696.54,Merchandise & Supplies-Furnishing
+05/29/2004,"Mcdonald, Collins and Allen",-14.86,Merchandise & Supplies-Wholesale Stores
+12/28/1975,"Smith, Williams and Clark",3608.24,Transportation-Fuel
+09/23/1981,Rodriguez-Spence,670.65,Other-Miscellaneous
+07/16/2023,"Davis, Smith and Lester",4268.54,Restaurant-Restaurant
+11/06/1999,Sims-Murphy,-2895.45,Transportation-Auto Services
+04/25/2007,Maldonado-Huff,4294.57,Business Services-Office Supplies
+05/10/2019,"Avery, Bennett and Bush",-1989.55,Communications-Cable & Internet Comm
+04/21/2014,"Berger, Thomas and Gomez",-1421.96,Merchandise & Supplies-Groceries
+04/20/2011,Mcgrath-Hawkins,-2530.02,Merchandise & Supplies-Electronics Stores
+05/31/2006,Smith-Weeks,-335.02,Entertainment-Associations
+06/01/1999,Wood Inc,-2341.97,Restaurant-Bar & Café
+01/25/2012,"Turner, Greene and Howard",4397.93,Merchandise & Supplies-Hardware Supplies
+11/15/1985,"Wood, Mckee and Duffy",-720.05,Merchandise & Supplies-Book Stores
+03/04/2004,Cooper Group,-1322.44,Restaurant-Bar & Café
+01/01/1984,"Velazquez, Turner and Whitehead",2894.59,Transportation-Auto Services
+11/12/2015,Bradley PLC,327.2,Business Services-Other Services
+03/03/1987,Dixon-Flowers,2177.14,Restaurant-Bar & Café
+08/21/1972,Wells-Day,3642.71,Business Services-Other Services
+10/17/2006,"Simmons, Smith and Medina",3747.14,Communications-Other Telecom
+07/11/1984,"Peters, Howard and Howard",2574.14,Merchandise & Supplies-Hardware Supplies
+09/19/2020,Hall Ltd,698.04,Restaurant-Restaurant
+12/15/1984,Moody-Moore,3708.0,Merchandise & Supplies-Mail Order
+07/03/1999,Matthews-Fischer,-3852.26,Communications-Cable & Internet Comm
+05/01/2017,Cochran-Elliott,1064.21,Merchandise & Supplies-Groceries
+11/15/2000,Moore-Holmes,-74.24,Merchandise & Supplies-Pharmacies
+09/19/1988,"Guerrero, Stevenson and Kennedy",-69.43,Communications-Cable & Internet Comm
+12/26/1983,Larson-Barnes,3054.1,Merchandise & Supplies-General Retail
+02/19/2014,Taylor-Taylor,3348.46,Communications-Other Telecom
+06/19/1980,Sloan-Sweeney,-1456.34,Entertainment-General Attractions
+10/23/2009,Morgan and Sons,2736.57,Merchandise & Supplies-Mail Order
+11/25/1980,Weaver-Johnson,-4886.84,Merchandise & Supplies-Clothing Stores
+09/12/2019,Fleming and Sons,4764.19,Merchandise & Supplies-Hardware Supplies
+09/18/1979,"Burke, Camacho and Hunter",3787.18,Entertainment-Associations
+11/09/1987,"Smith, Garcia and Greene",-4743.12,Merchandise & Supplies-Hardware Supplies
+10/15/1984,Perez-Moore,3711.65,Restaurant-Bar & Café
+09/26/1983,Lopez LLC,-632.85,Merchandise & Supplies-Pharmacies
+11/18/2021,Sanders-Peck,-4759.45,Communications-Other Telecom
+09/27/2017,Hamilton-Haley,-3301.42,Restaurant-Bar & Café
+05/23/2006,Russell LLC,-196.06,Restaurant-Bar & Café
+04/16/2004,"Scott, Lee and Lopez",-2090.71,Fees & Adjustments-Fees & Adjustments
+06/18/1970,"Mitchell, Kirby and Garza",-1416.2,Merchandise & Supplies-Computer Supplies
+03/10/2008,"Riley, Castro and Pena",-529.05,Merchandise & Supplies-Mail Order
+09/26/1980,Horton-Ewing,1358.11,Business Services-Mailing & Shipping
+12/09/2005,"Wu, Farrell and Taylor",2643.84,Communications-Other Telecom
+05/03/1995,Khan PLC,-767.4,Entertainment-General Attractions
+01/15/1980,Wolf Inc,2233.84,Entertainment-Associations
+09/12/1992,Goodman-Hawkins,436.32,Transportation-Fuel
+05/07/1974,Mayer-Sanders,-1673.82,Other-Charities
+12/18/2020,"Stevens, Marsh and Sullivan",-821.44,Restaurant-Restaurant
+01/15/2013,"Floyd, Wood and Randolph",3877.38,Merchandise & Supplies-Groceries
+08/27/2018,Burns PLC,4289.57,Restaurant-Bar & Café
+12/06/1975,Ellis Ltd,-3060.24,Restaurant-Restaurant
+08/15/2014,Foster Inc,4369.66,Merchandise & Supplies-Internet Purchase
+10/18/1993,Smith Group,-2163.21,Entertainment-General Attractions
+11/01/2013,"Cohen, Rogers and Wells",-677.08,Merchandise & Supplies-General Retail
+08/01/1991,Lewis-Day,483.96,Business Services-Professional Services
+09/05/1989,"Henson, Hernandez and Powell",4915.15,Business Services-Office Supplies
+08/29/2003,Howard-Flores,361.87,Merchandise & Supplies-Electronics Stores
+04/25/1992,Mccoy PLC,-3964.33,Business Services-Office Supplies
+03/03/2014,Martin PLC,559.36,Merchandise & Supplies-Hardware Supplies
+05/06/2006,Johnson Group,3352.63,Merchandise & Supplies-Computer Supplies
+09/16/2013,Robinson Ltd,-3523.41,Merchandise & Supplies-Electronics Stores
+03/19/1973,Martinez-Hardy,1618.45,Merchandise & Supplies-General Retail
+05/11/1977,"Morrison, Ramos and Kennedy",-2075.53,Merchandise & Supplies-Mail Order
+12/23/2005,"Harrison, Bryant and Smith",-3833.08,Merchandise & Supplies-Computer Supplies
+10/19/2001,Davis and Sons,-4445.76,Business Services-Mailing & Shipping
+08/19/1997,Fry Inc,-3322.41,Merchandise & Supplies-Mail Order
+09/02/1978,Gonzalez Inc,-4682.26,Merchandise & Supplies-Clothing Stores
+11/01/1973,"Payne, Lee and Walker",-86.42,Merchandise & Supplies-Wholesale Stores
+09/25/1989,"Bell, Brown and Kelly",-525.03,Merchandise & Supplies-Groceries
+05/15/1984,Johnston-Norman,-1449.28,Business Services-Internet Services
+04/13/2008,Weber-Mora,-3497.73,Business Services-Mailing & Shipping
+03/26/2006,Young-Hughes,3876.85,Business Services-Office Supplies
+12/14/1985,Duran-Hendrix,4323.02,Merchandise & Supplies-Electronics Stores
+11/16/1983,Noble-King,960.09,Merchandise & Supplies-Electronics Stores
+11/26/1975,Walker LLC,-163.72,Entertainment-Associations
+06/05/2000,Johnson Group,927.75,Fees & Adjustments-Fees & Adjustments
+02/17/2006,Walsh-Brown,-1746.51,Business Services-Other Services
+06/24/1972,Jones PLC,-1672.67,Business Services-Other Services
+12/13/2006,"Lawrence, Wells and Johnson",2716.46,Merchandise & Supplies-Book Stores
+04/06/1972,Ford Group,630.42,Merchandise & Supplies-Furnishing
+03/03/1971,Williams-Clark,-3937.99,Merchandise & Supplies-Book Stores
+04/01/1977,Townsend Ltd,-1595.13,Transportation-Auto Services
+09/19/1984,"Armstrong, Perry and Baker",-2728.64,Other-Miscellaneous
+10/01/1975,Wiley-Gomez,4938.64,Entertainment-Associations
+01/26/2024,"Gonzales, Horton and Green",-4648.82,Merchandise & Supplies-Computer Supplies
+02/14/1990,Smith Inc,-1654.18,Communications-Cable & Internet Comm
+07/18/1974,"Pratt, Wood and Miller",-3750.46,Merchandise & Supplies-Book Stores
+12/29/2011,"Hernandez, Hodges and Jenkins",3061.27,Merchandise & Supplies-Mail Order
+09/15/2002,"Vasquez, Pierce and Martin",4370.66,Merchandise & Supplies-Pharmacies
+10/11/1986,Martinez LLC,-857.4,Business Services-Office Supplies
+11/05/1972,Mata-Bass,-4567.41,Transportation-Parking Charges
+03/08/1977,Schaefer LLC,-4138.19,Merchandise & Supplies-Mail Order
+10/05/2013,Lee PLC,-761.07,Merchandise & Supplies-Wholesale Stores
+01/19/2009,Dillon-Black,655.86,Entertainment-Associations
+09/25/1990,"Weaver, Goodman and Williams",3256.98,Merchandise & Supplies-Clothing Stores
+02/05/1990,"Thompson, Kramer and Olsen",-3740.72,Business Services-Office Supplies
+10/30/1992,"Sparks, Martin and Martinez",4705.53,Communications-Other Telecom
+12/07/1994,Davis Ltd,-1212.22,Other-Charities
+02/04/2005,Lang-Mendoza,-2770.78,Merchandise & Supplies-Groceries
+05/16/2014,Foster LLC,1957.63,Communications-Other Telecom
+09/04/1976,"Mayer, Smith and Adams",1722.81,Business Services-Professional Services
+05/10/1991,Hester-Foster,832.37,Merchandise & Supplies-Groceries
+05/02/1985,Pace Group,828.86,Business Services-Office Supplies
+01/25/1990,Smith-Lewis,-984.66,Transportation-Fuel
+10/08/1994,Larson-Ingram,73.96,Merchandise & Supplies-Groceries
+09/11/1971,Green Ltd,1240.24,Other-Miscellaneous
+12/14/2001,Warner-Bell,870.55,Entertainment-Associations
+05/01/1987,"Jackson, Nguyen and Haney",-1208.88,Restaurant-Bar & Café
+03/11/1997,"Martinez, Williams and Johnson",945.18,Business Services-Professional Services
+12/15/1994,"Young, Gilbert and Johnson",-4408.31,Entertainment-Associations
+09/07/1993,Clark and Sons,2783.87,Business Services-Professional Services
+12/23/1990,Herrera-Lamb,4499.2,Restaurant-Restaurant
+09/04/1977,"Perry, Clark and Banks",2524.91,Merchandise & Supplies-Computer Supplies
+05/02/1980,"Nelson, Robertson and Little",720.62,Transportation-Auto Services
+07/05/2009,"Taylor, Santos and Melton",3766.43,Merchandise & Supplies-Book Stores
+05/18/1974,"Lee, Vega and Hammond",-3216.18,Merchandise & Supplies-General Retail
+03/01/1984,Coleman-Bennett,1350.77,Business Services-Mailing & Shipping
+01/24/1989,"Alexander, Lee and Daniel",-2891.2,Business Services-Internet Services
+12/06/2006,"Buchanan, Petersen and Howard",4991.23,Merchandise & Supplies-Book Stores
+12/26/1994,Boone and Sons,-3794.14,Restaurant-Restaurant
+09/11/1998,"Vance, Smith and Lane",-4593.79,Merchandise & Supplies-Furnishing
+10/06/1984,"Parker, Lee and Martin",-4344.27,Transportation-Parking Charges
+01/16/1993,Wolf and Sons,2563.08,Entertainment-Associations
+07/06/1980,Clark Group,-2031.3,Merchandise & Supplies-Furnishing
+01/17/2017,"Ford, Nelson and Wright",518.12,Merchandise & Supplies-Computer Supplies
+04/03/1989,Weaver-Robinson,-1097.97,Merchandise & Supplies-Groceries
+01/11/1977,Walsh-Serrano,-2190.5,Transportation-Parking Charges
+01/23/1982,Mills Group,4712.16,Communications-Other Telecom
+04/19/1973,Esparza-Thompson,4539.24,Merchandise & Supplies-Book Stores
+07/16/1997,Zamora-Marsh,1269.12,Merchandise & Supplies-Hardware Supplies
+05/14/1982,Garcia Ltd,771.55,Merchandise & Supplies-Clothing Stores
+08/18/2017,"Roberts, Rodriguez and Howard",3594.87,Merchandise & Supplies-Groceries
+03/03/2011,Martin Inc,1965.36,Other-Charities
+05/17/1985,Goodwin-Lewis,-167.56,Merchandise & Supplies-Groceries
+01/27/1986,"Brown, Weaver and Wilson",-1786.28,Other-Miscellaneous
+10/29/2011,Mathews and Sons,1623.54,Other-Miscellaneous
+11/23/1979,Smith Ltd,-4421.71,Entertainment-General Attractions
+02/06/2012,Vasquez Ltd,4921.63,Business Services-Office Supplies
+06/06/1997,"Gross, Jensen and Long",4084.4,Merchandise & Supplies-Hardware Supplies
+12/09/2014,Villanueva-Moreno,-1533.33,Merchandise & Supplies-Clothing Stores
+10/12/2004,Garcia-Sanchez,-2950.55,Fees & Adjustments-Fees & Adjustments
+09/02/1994,Oliver and Sons,3990.02,Merchandise & Supplies-Department Stores
+08/23/1995,Jones-Figueroa,-2700.03,Transportation-Fuel
+08/18/1977,Farmer and Sons,1218.23,Merchandise & Supplies-Furnishing
+07/09/2011,Anderson-Lewis,-2611.49,Merchandise & Supplies-Furnishing
+04/05/2000,Williams-Huber,-4805.63,Entertainment-General Attractions
+08/21/2018,"Thompson, Hudson and Rivas",-1833.47,Restaurant-Restaurant
+10/10/1997,Martin-Kelly,4052.37,Business Services-Mailing & Shipping
+08/20/1973,"Vaughn, Blankenship and Rodriguez",3137.81,Merchandise & Supplies-Wholesale Stores
+09/23/1997,"Jenkins, Wilson and Zavala",-1606.31,Business Services-Internet Services
+06/08/2012,Byrd-Diaz,-3377.54,Business Services-Other Services
+09/02/1970,George PLC,2364.0,Merchandise & Supplies-Clothing Stores
+06/30/1989,Benson-Williams,-2841.63,Merchandise & Supplies-Book Stores
+06/27/2023,"Burgess, Mclaughlin and Oliver",-1839.23,Business Services-Professional Services
+03/24/2007,Anderson-Schneider,-2973.17,Merchandise & Supplies-Pharmacies
+06/20/2018,"Conley, Little and Hicks",-2463.43,Communications-Other Telecom
+07/09/1992,Simmons Inc,-3635.68,Entertainment-Associations
+08/17/1978,"Bennett, Mcdowell and Evans",-1660.12,Merchandise & Supplies-Internet Purchase
+12/23/1972,Johnson-Myers,-139.03,Merchandise & Supplies-Groceries
+01/31/1996,"Daniel, Miller and Hendricks",4318.87,Business Services-Mailing & Shipping
+05/23/1984,Johnson-Gonzalez,289.73,Entertainment-General Attractions
+09/08/2004,"Dalton, Barton and Moore",4782.1,Merchandise & Supplies-Wholesale Stores
+06/05/1975,Kennedy LLC,-2951.68,Other-Miscellaneous
+12/08/1997,"Gamble, Reed and Andrews",-461.69,Merchandise & Supplies-Clothing Stores
+03/19/2016,"Frederick, Hunter and Rivera",167.06,Entertainment-Associations
+06/07/1986,"Thompson, Johnson and Gonzales",2478.26,Merchandise & Supplies-Groceries
+12/30/1995,"Pham, Long and Molina",4227.08,Merchandise & Supplies-Clothing Stores
+12/31/1991,Boyer-White,3704.65,Merchandise & Supplies-Furnishing
+05/09/1983,Porter Ltd,315.75,Merchandise & Supplies-Clothing Stores
+12/14/1982,White Group,2873.53,Other-Charities
+09/08/1989,Brown Ltd,503.81,Merchandise & Supplies-Book Stores
+08/08/2022,"Williams, Mckinney and Walker",3514.37,Merchandise & Supplies-Book Stores
+06/23/1998,Howard-Brooks,-2508.41,Communications-Other Telecom
+03/28/1973,Jordan-Brown,3932.87,Transportation-Parking Charges
+04/19/2002,"Smith, Shields and Price",2064.57,Transportation-Fuel
+03/21/2024,Saunders-Johnson,-1247.83,Communications-Other Telecom
+02/06/1996,"Stewart, Lee and Perez",-4994.26,Other-Miscellaneous
+12/31/1982,Wright LLC,-3765.46,Restaurant-Bar & Café
+05/29/2022,Hill Ltd,-3557.41,Communications-Other Telecom
+07/14/1977,"Walker, Gomez and Lee",3431.76,Merchandise & Supplies-Computer Supplies
+05/27/1983,Moore and Sons,1337.32,Merchandise & Supplies-Hardware Supplies
+07/26/2015,"Frederick, Young and Ward",2646.04,Transportation-Parking Charges
+10/20/2023,"Ellis, Jackson and Long",338.73,Entertainment-Associations
+02/05/1981,Sanchez-Vasquez,4067.93,Business Services-Other Services
+12/09/1999,White-Ross,936.6,Business Services-Internet Services
+02/02/1972,Bruce-Russell,3249.72,Transportation-Auto Services
+03/22/1985,Smith Inc,3408.74,Entertainment-Associations
+05/16/1989,Hamilton-Mack,-2154.64,Other-Miscellaneous
+06/28/1978,Robles-Wolfe,-1857.52,Merchandise & Supplies-Department Stores
+09/03/1997,Mendoza Group,2920.93,Transportation-Fuel
+03/20/2022,Shields-Reeves,-3235.12,Entertainment-General Attractions
+03/03/1977,Rivera and Sons,-4627.23,Restaurant-Restaurant
+04/24/2003,"Wheeler, Powers and Schmidt",-38.98,Communications-Cable & Internet Comm
+06/07/1974,Fleming-Olson,4281.04,Communications-Cable & Internet Comm
+12/18/2009,Matthews Inc,1692.01,Transportation-Auto Services
+10/23/2009,"Davis, Christian and Patterson",1034.45,Business Services-Internet Services
+01/01/1995,Carrillo Group,-3686.25,Merchandise & Supplies-General Retail
+09/23/1975,Pope-Reyes,1325.22,Merchandise & Supplies-Computer Supplies
+05/29/2007,Anderson PLC,-365.59,Business Services-Other Services
+12/03/2022,Adams-Bell,1705.69,Merchandise & Supplies-Pharmacies
+11/01/2010,"Castillo, Mosley and Solis",-3192.47,Merchandise & Supplies-Clothing Stores
+09/18/1970,"Myers, Rodriguez and Murphy",-164.63,Merchandise & Supplies-General Retail
+08/25/1996,Mcclain-Wright,-922.5,Restaurant-Bar & Café
+12/06/2002,Robinson-Cobb,2363.17,Business Services-Internet Services
+10/20/1987,Ruiz PLC,-342.9,Entertainment-General Attractions
+01/18/2005,"Williams, Clark and Silva",-2056.81,Other-Miscellaneous
+01/13/1989,Greene and Sons,-2837.8,Merchandise & Supplies-Wholesale Stores
+12/03/2004,"Garza, Martinez and Farrell",160.16,Fees & Adjustments-Fees & Adjustments
+08/17/2018,Robbins and Sons,2440.17,Merchandise & Supplies-Mail Order
+08/04/2020,Walter LLC,-4701.97,Business Services-Other Services
+03/21/2024,Jimenez-Hampton,-2625.75,Restaurant-Restaurant
+08/28/2010,"Hogan, Torres and Watson",-4459.95,Merchandise & Supplies-Electronics Stores
+08/05/2020,"Moore, Dixon and Petersen",1711.81,Merchandise & Supplies-Mail Order
+05/14/1976,Perez Group,-706.65,Other-Miscellaneous
+06/03/1983,Adams PLC,3368.3,Entertainment-Associations
+02/16/1973,Greene-Lee,2853.23,Merchandise & Supplies-Groceries
+08/14/1989,Woodward-Stone,-991.22,Transportation-Parking Charges
+04/26/1993,Brown-Bell,-4619.56,Other-Charities
+06/11/2001,Mendoza Ltd,-2247.1,Transportation-Auto Services
+06/09/1989,Bryan Ltd,-4719.39,Merchandise & Supplies-Hardware Supplies
+11/22/2009,Jordan-Riley,1671.84,Other-Charities
+03/23/2005,"Edwards, Melendez and Brown",-3648.15,Communications-Cable & Internet Comm
+07/22/1985,Bowers PLC,1369.97,Other-Miscellaneous
+11/24/1979,Rowland Ltd,-3927.27,Merchandise & Supplies-Pharmacies
+04/13/1977,Hickman Group,4647.63,Merchandise & Supplies-Department Stores
+07/05/1970,Rivera Group,102.42,Merchandise & Supplies-Book Stores
+03/26/2019,"Baker, Rogers and Scott",4164.73,Merchandise & Supplies-Computer Supplies
+10/23/2011,Lewis PLC,3249.83,Merchandise & Supplies-Electronics Stores
+10/27/2009,Wade PLC,-398.69,Business Services-Mailing & Shipping
+12/27/1990,"Jacobs, Richards and Cox",-1751.36,Merchandise & Supplies-Clothing Stores
+10/23/1997,"Dorsey, Lee and Rosales",267.85,Merchandise & Supplies-Mail Order
+11/27/1981,"Smith, Villarreal and Haynes",-1102.0,Transportation-Auto Services
+06/11/2013,Miller-Andersen,1503.39,Entertainment-Associations
+08/29/2013,"Zhang, Hamilton and Davis",-3115.01,Merchandise & Supplies-Computer Supplies
+03/30/2005,"Garza, Anderson and Fernandez",-2684.04,Merchandise & Supplies-Pharmacies
+03/24/2014,Guerrero-Ewing,-4416.11,Merchandise & Supplies-Pharmacies
+09/09/1990,"Macias, Johnson and Scott",-2442.87,Transportation-Parking Charges
+11/05/2020,"Kelly, Morales and Arnold",-4440.22,Merchandise & Supplies-Pharmacies
+09/05/2023,Baker Group,4788.06,Fees & Adjustments-Fees & Adjustments
+07/17/2019,Smith Ltd,1346.61,Merchandise & Supplies-Electronics Stores
+04/20/2000,Hayes LLC,3052.84,Merchandise & Supplies-Wholesale Stores
+08/23/2005,Riley-Johnson,4415.41,Business Services-Office Supplies
+10/14/2024,"Edwards, Campbell and Gonzalez",-2641.75,Merchandise & Supplies-Electronics Stores
+03/31/1970,Jordan-Soto,-2176.85,Entertainment-General Attractions
+02/23/1995,Simpson-Williams,1573.7,Business Services-Office Supplies
+04/03/1989,"Sawyer, Anderson and Woods",-2887.54,Merchandise & Supplies-Clothing Stores
+11/24/2023,"Wilson, Bush and Young",4533.12,Merchandise & Supplies-Mail Order
+08/06/1993,"Brock, Ward and Jacobs",4809.66,Business Services-Other Services
+01/30/1982,"Barker, Hudson and Mayer",-3594.35,Business Services-Internet Services
+07/09/1986,Watkins-Martin,-656.91,Merchandise & Supplies-Mail Order
+10/29/2019,Davis Group,2232.14,Transportation-Auto Services
+09/01/2020,Davis-Mcmillan,3082.6,Other-Charities
+10/27/1974,"Austin, Fisher and Sullivan",-4892.0,Business Services-Internet Services
+07/24/1976,Crawford LLC,-602.81,Merchandise & Supplies-General Retail
+09/05/1992,Morales Group,3843.34,Restaurant-Restaurant
+06/20/2003,Marshall Group,-591.41,Merchandise & Supplies-Groceries
+11/11/2008,Carpenter LLC,1932.63,Merchandise & Supplies-Computer Supplies
+07/02/1991,"Cunningham, Hanson and Shepard",1393.78,Transportation-Parking Charges
+01/18/2009,"Munoz, Wise and Curtis",2817.62,Business Services-Internet Services
+03/28/1977,Mcfarland LLC,-4066.5,Communications-Other Telecom
+07/20/1992,Curry and Sons,1700.17,Entertainment-General Attractions
+10/31/2018,"Rogers, Whitaker and Morgan",4528.65,Merchandise & Supplies-Book Stores
+01/05/2011,Peters Inc,2210.34,Transportation-Fuel
+04/26/1978,Beck-Williamson,-180.17,Merchandise & Supplies-Book Stores
+01/04/1992,"Kent, Stone and Owens",-3490.83,Merchandise & Supplies-Groceries
+08/08/1978,Mcdonald-Romero,-1506.93,Merchandise & Supplies-Clothing Stores
+03/15/1979,Smith Ltd,3607.09,Merchandise & Supplies-Mail Order
+08/20/2005,Garcia Ltd,4655.16,Merchandise & Supplies-Wholesale Stores
+02/19/1990,Carr Group,-3519.94,Merchandise & Supplies-Book Stores
+10/26/1973,"Holland, Garcia and Burgess",4321.21,Merchandise & Supplies-Mail Order
+07/13/1970,Brown-Zavala,1934.95,Merchandise & Supplies-Computer Supplies
+05/21/1977,"Daugherty, Gilbert and Leonard",-3480.77,Merchandise & Supplies-Electronics Stores
+07/05/2014,"King, Herring and Johnson",-3910.57,Business Services-Office Supplies
+03/05/2011,Lamb Inc,-1048.0,Entertainment-General Attractions
+04/28/1983,"Simmons, Rosales and Cooper",2516.29,Business Services-Other Services
+09/11/2005,"Sutton, Guzman and Baxter",2764.63,Merchandise & Supplies-Book Stores
+03/13/1987,Gibson LLC,280.82,Transportation-Auto Services
+05/08/2018,Jones-Brennan,2519.92,Merchandise & Supplies-Computer Supplies
+07/09/1973,Hanna and Sons,-2452.98,Other-Charities
+09/03/2024,"Meza, Rodriguez and Wright",-3165.99,Transportation-Parking Charges
+08/29/1974,"Martinez, Baker and Lloyd",-3740.11,Fees & Adjustments-Fees & Adjustments
+06/16/1983,Hanna-Hicks,3422.34,Merchandise & Supplies-Wholesale Stores
+04/17/2001,"Pena, Gilmore and Elliott",1765.89,Entertainment-Associations
+06/29/1991,Hernandez and Sons,1705.91,Entertainment-General Attractions
+08/23/2017,Morales and Sons,2073.62,Fees & Adjustments-Fees & Adjustments
+07/31/2019,Byrd-Floyd,-4995.67,Merchandise & Supplies-Furnishing
+10/20/2006,"Beard, Rubio and Barron",-3292.28,Merchandise & Supplies-Clothing Stores
+08/11/1978,Blake Inc,-940.07,Merchandise & Supplies-Computer Supplies
+06/01/2008,Oliver PLC,-4868.56,Merchandise & Supplies-Internet Purchase
+08/20/1982,Frank Inc,-1694.18,Merchandise & Supplies-Pharmacies
+02/06/2006,Carson-Murray,-480.7,Other-Charities
+01/22/1975,Thomas-Barnett,-1384.65,Other-Charities
+11/24/2000,"Brown, Vincent and Smith",2174.83,Merchandise & Supplies-Electronics Stores
+12/12/1993,Shah LLC,-1063.14,Communications-Cable & Internet Comm
+03/21/2010,Ramirez-Bailey,4481.52,Transportation-Parking Charges
+10/23/1992,"Villanueva, Barton and Lee",301.07,Transportation-Auto Services
+05/31/1995,Grant-Brown,-3928.39,Other-Miscellaneous
+06/29/1987,Hughes Group,-838.04,Merchandise & Supplies-Groceries
+02/04/1981,French-Dixon,3289.89,Merchandise & Supplies-Pharmacies
+12/22/1985,"Boyd, Garcia and Stewart",3614.21,Merchandise & Supplies-Department Stores
+07/31/1971,Rivas Ltd,-3854.19,Merchandise & Supplies-Mail Order
+10/29/1981,Ross-Jackson,-1322.57,Merchandise & Supplies-Groceries
+06/06/1987,"Padilla, Sherman and Dean",4925.86,Merchandise & Supplies-Book Stores
+10/26/1998,Evans-Clark,-4423.45,Other-Miscellaneous
+12/14/1985,"Austin, Green and Barnes",2752.03,Other-Miscellaneous
+04/09/2023,Anderson-Peck,1072.88,Merchandise & Supplies-Internet Purchase
+10/03/2019,Carter-Munoz,-199.12,Merchandise & Supplies-Pharmacies
+02/27/1981,Smith-Hendricks,4478.29,Entertainment-Associations
+06/16/1975,Torres-Gonzalez,-208.23,Merchandise & Supplies-Department Stores
+05/09/1972,Gonzalez Inc,-73.0,Merchandise & Supplies-Wholesale Stores
+05/17/1983,Harvey-Flores,3167.16,Transportation-Parking Charges
+04/03/1995,Jackson-Hudson,3415.16,Other-Miscellaneous
+04/10/1989,Jones Group,2920.65,Merchandise & Supplies-Internet Purchase
+04/28/2006,Smith-Thomas,2296.78,Merchandise & Supplies-Internet Purchase
+08/23/2022,Young PLC,-4732.97,Merchandise & Supplies-Clothing Stores
+06/14/2019,Aguilar-Owens,3097.16,Other-Miscellaneous
+12/02/1982,Salinas-Clark,1180.3,Merchandise & Supplies-Hardware Supplies
+03/05/1993,Aguirre and Sons,-3814.07,Merchandise & Supplies-Hardware Supplies
+12/08/1991,"Ramirez, Mccormick and Black",3291.33,Business Services-Other Services
+06/30/2007,"Jimenez, Carlson and Erickson",2736.18,Merchandise & Supplies-Groceries
+09/11/1990,Blair Group,239.86,Merchandise & Supplies-Computer Supplies
+04/07/1998,Morrow Ltd,4385.67,Merchandise & Supplies-Book Stores
+03/08/1981,Rollins Ltd,63.95,Merchandise & Supplies-General Retail
+05/11/1994,Middleton-Berry,-3170.43,Merchandise & Supplies-Furnishing
+10/22/1971,"Serrano, Harper and Duffy",1702.13,Merchandise & Supplies-Book Stores
+02/18/1998,Kelly Inc,4486.35,Transportation-Auto Services
+06/07/2001,Johnson and Sons,-4310.67,Merchandise & Supplies-Electronics Stores
+05/21/1987,Gilbert-Jackson,64.73,Merchandise & Supplies-Computer Supplies
+04/29/1981,Le-Farley,3834.18,Merchandise & Supplies-Clothing Stores
+02/21/1981,Richardson Inc,622.24,Transportation-Fuel
+01/31/2016,Carpenter PLC,4855.0,Business Services-Professional Services
+12/10/2024,"Pratt, Hall and Evans",4943.6,Merchandise & Supplies-Hardware Supplies
+06/07/2019,Adams and Sons,3010.63,Restaurant-Bar & Café
+12/29/2001,Calhoun Group,-1276.64,Merchandise & Supplies-Computer Supplies
+11/30/2020,"Walker, Tran and Davila",2192.95,Merchandise & Supplies-Clothing Stores
+09/01/1981,Lee and Sons,4708.78,Merchandise & Supplies-Pharmacies
+02/08/1982,Moore Group,3520.64,Entertainment-Associations
+12/18/1987,"Bass, Turner and Zuniga",1655.17,Business Services-Other Services
+08/28/1991,Giles PLC,-1059.12,Other-Miscellaneous
+10/13/1974,Davidson-Brown,1108.53,Communications-Cable & Internet Comm
+09/29/1971,Fleming Inc,2837.34,Fees & Adjustments-Fees & Adjustments
+01/20/1988,Webster-Pope,-715.46,Merchandise & Supplies-Clothing Stores
+08/21/2021,"Harris, Fischer and Espinoza",-599.54,Entertainment-Associations
+05/23/2013,Reed-Lopez,-1945.41,Merchandise & Supplies-Pharmacies
+05/23/1973,Wallace-Sullivan,3749.9,Merchandise & Supplies-Hardware Supplies
+11/15/1993,"Robinson, Anderson and Johnson",107.97,Transportation-Auto Services
+02/10/2009,"Mays, Klein and Brown",-2272.98,Merchandise & Supplies-Clothing Stores
+06/11/1993,"Weber, Rogers and Jones",1521.59,Transportation-Parking Charges
+10/05/1993,Calhoun Group,-4975.37,Restaurant-Bar & Café
+10/16/1998,Mcdonald-Davis,-1462.63,Communications-Other Telecom
+01/20/1998,"Mcdaniel, Sullivan and Olson",1559.83,Communications-Other Telecom
+07/03/2021,Yates Inc,-519.8,Entertainment-General Attractions
+06/20/1990,Mcdonald-Mendoza,2774.38,Business Services-Mailing & Shipping
+03/02/1995,Berger-Gallagher,-2720.77,Merchandise & Supplies-Hardware Supplies
+07/18/1983,Roach-Smith,-3083.19,Merchandise & Supplies-Wholesale Stores
+11/04/2014,"Perry, Rodriguez and Benton",2521.25,Merchandise & Supplies-Mail Order
+09/18/1994,Munoz-Peters,3625.18,Merchandise & Supplies-Furnishing
+09/13/1976,"Ford, Acosta and Costa",-2717.88,Business Services-Internet Services
+12/02/2017,"Mccarthy, Hale and Lee",308.34,Merchandise & Supplies-Clothing Stores
+07/09/2024,Cooper-Mcneil,3886.78,Communications-Other Telecom
+08/27/2001,"Tucker, Farmer and Rojas",1136.34,Merchandise & Supplies-Computer Supplies
+12/09/2016,Todd Ltd,4651.51,Merchandise & Supplies-Hardware Supplies
+10/27/2021,Wood PLC,-4929.89,Transportation-Fuel
+02/02/2010,Collier-Barnes,-4400.42,Transportation-Auto Services
+12/17/1983,Evans-Ryan,-2969.77,Merchandise & Supplies-Computer Supplies
+09/02/1978,Nicholson-Davis,1805.49,Transportation-Fuel
+05/30/1980,"Dixon, Brown and Randolph",-645.21,Merchandise & Supplies-Groceries
+05/13/1986,Chandler LLC,-4051.25,Business Services-Mailing & Shipping
+06/19/2023,Miller-Gomez,2087.58,Restaurant-Bar & Café
+12/03/1986,"Smith, Smith and Schroeder",-602.42,Merchandise & Supplies-Computer Supplies
+07/08/1991,Jefferson-Smith,-858.25,Entertainment-General Attractions
+07/12/2020,Patel-Espinoza,-4847.86,Transportation-Parking Charges
+01/30/1998,Zamora-Warner,3913.3,Transportation-Parking Charges
+07/05/1972,"Carter, Andrews and Shelton",1456.51,Entertainment-General Attractions
+06/30/1993,Kim-Garcia,3009.21,Communications-Other Telecom
+04/23/2023,Leon-Wright,-4736.59,Business Services-Professional Services
+01/14/1984,Kennedy-Taylor,4629.09,Merchandise & Supplies-Furnishing
+03/05/1979,"Powell, Moore and Sullivan",2335.68,Merchandise & Supplies-Internet Purchase
+01/22/1992,Brown Group,2795.32,Transportation-Fuel
+04/16/2004,Thomas-Palmer,-3072.0,Business Services-Mailing & Shipping
+06/24/1991,"Holder, Hale and Lewis",2829.5,Merchandise & Supplies-Wholesale Stores
+07/21/1974,Edwards-Perez,1523.86,Merchandise & Supplies-Groceries
+02/05/1978,"Dawson, Jones and Mckay",474.19,Merchandise & Supplies-Mail Order
+09/04/1992,Fisher-Gilbert,-4083.63,Transportation-Fuel
+11/23/1977,Maldonado and Sons,-3134.09,Other-Charities
+09/05/2015,Norman-Chaney,-4450.54,Merchandise & Supplies-Wholesale Stores
+06/18/1994,Joyce Ltd,4259.06,Merchandise & Supplies-Clothing Stores
+05/06/1979,Washington-Mills,-4677.13,Merchandise & Supplies-Furnishing
+04/15/1983,Nguyen-Fisher,-3018.5,Business Services-Mailing & Shipping
+09/11/2014,Lee-Reilly,-2060.14,Business Services-Other Services
+02/19/2017,Jones-Reed,2481.35,Business Services-Internet Services
+08/23/2020,Montgomery PLC,-2271.77,Business Services-Other Services
+04/14/2002,"Ferrell, Kelly and Nguyen",-606.88,Other-Miscellaneous
+12/18/2012,Edwards Group,1917.44,Merchandise & Supplies-General Retail
+04/09/1993,"Hernandez, Pearson and Davenport",-1276.91,Business Services-Office Supplies
+09/16/1985,Kelly LLC,285.37,Entertainment-General Attractions
+03/06/1988,Robbins-Burns,4247.7,Entertainment-Associations
+08/17/2011,"Rios, Green and Lucas",-3605.3,Merchandise & Supplies-Internet Purchase
+11/07/2006,"Novak, Hicks and Levy",-2864.41,Merchandise & Supplies-Groceries
+01/23/2000,Mitchell PLC,-2402.8,Other-Miscellaneous
+12/25/1980,Whitehead LLC,1748.34,Restaurant-Bar & Café
+04/02/1972,"Smith, Thompson and Kelly",4022.16,Restaurant-Restaurant
+02/03/1983,Reed LLC,1572.25,Entertainment-Associations
+03/17/1977,"Sullivan, Boone and Ramirez",791.11,Business Services-Internet Services
+02/28/2013,Peterson Group,1800.52,Business Services-Professional Services
+07/22/1988,Mason-Smith,-4493.6,Merchandise & Supplies-Mail Order
+05/31/1981,Contreras-Howell,4760.3,Business Services-Mailing & Shipping
+04/12/2007,Smith-Romero,-163.72,Merchandise & Supplies-Mail Order
+08/23/1999,Logan Inc,-3138.02,Business Services-Mailing & Shipping
+07/31/1978,Pruitt-Jones,-3793.54,Business Services-Mailing & Shipping
+03/07/2023,"Davis, Shaw and Ramirez",4629.61,Entertainment-General Attractions
+07/03/2008,"West, Cole and Golden",-1253.61,Merchandise & Supplies-Computer Supplies
+12/28/2009,"Galvan, Sims and Larson",-1417.39,Communications-Other Telecom
+05/24/1977,"Gaines, Brown and Bell",-4863.0,Merchandise & Supplies-Furnishing
+07/29/2020,Hutchinson-Williams,3463.24,Merchandise & Supplies-Pharmacies
+11/14/2000,Wagner Ltd,1875.3,Other-Miscellaneous
+02/17/1984,"Hernandez, Fisher and Young",4685.94,Transportation-Parking Charges
+07/19/1970,"Lopez, Espinoza and Frost",-4605.25,Business Services-Mailing & Shipping
+02/01/1990,"Johnson, Hayes and Galvan",819.31,Transportation-Parking Charges
+12/08/1988,"Hernandez, Mcgee and Arias",-3173.79,Restaurant-Restaurant
+01/27/1994,Lopez and Sons,920.81,Transportation-Fuel
+05/25/1993,Moran-Noble,-2219.78,Merchandise & Supplies-Book Stores
+11/12/2014,Price and Sons,4691.75,Merchandise & Supplies-Pharmacies
+05/21/1996,"Harrison, Salazar and Nolan",1200.17,Communications-Cable & Internet Comm
+01/01/1988,Dalton Ltd,3524.67,Transportation-Auto Services
+01/15/2023,Nguyen-Stokes,-2441.13,Merchandise & Supplies-Internet Purchase
+07/19/1986,"Ballard, Myers and Stevenson",-4453.55,Merchandise & Supplies-Furnishing
+05/07/2007,"Young, Russell and Kelly",4487.11,Entertainment-General Attractions
+02/10/1982,"Bolton, Hunter and Moore",2217.07,Merchandise & Supplies-Clothing Stores
+10/03/1997,Johnson Group,-1225.06,Merchandise & Supplies-Groceries
+11/04/2014,Gonzalez Inc,-4356.99,Restaurant-Bar & Café
+04/11/1996,"Johnson, Brewer and Garcia",2753.44,Restaurant-Bar & Café
+04/11/2014,Logan PLC,2491.39,Communications-Cable & Internet Comm
+10/26/2017,Melendez LLC,4800.78,Merchandise & Supplies-Hardware Supplies
+03/24/2018,Thompson-Stein,-1907.41,Merchandise & Supplies-General Retail
+05/13/1995,Goodman-Carroll,-2138.29,Merchandise & Supplies-Groceries
+09/19/1980,Roberts Group,-2198.58,Communications-Other Telecom
+09/01/1971,"Joyce, Schmidt and Henderson",-3871.74,Merchandise & Supplies-Electronics Stores
+04/02/2009,"Brock, Mitchell and George",-3151.02,Business Services-Internet Services
+06/11/1981,Greer-Mendoza,2900.47,Merchandise & Supplies-Groceries
+09/23/1978,"Aguirre, Miller and Rice",-2766.1,Entertainment-General Attractions
+06/07/1995,Smith Group,3512.39,Merchandise & Supplies-General Retail
+05/12/2002,Norton PLC,-2531.14,Merchandise & Supplies-Computer Supplies
+10/24/1970,Carter LLC,-4156.57,Entertainment-General Attractions
+04/11/1996,"Andrews, Jackson and Stone",2724.16,Merchandise & Supplies-Furnishing
+07/15/1973,"Nash, Long and Mendez",-2917.7,Business Services-Internet Services
+05/29/2016,White PLC,2121.94,Communications-Cable & Internet Comm
+09/18/2013,"Clark, Kelly and Ochoa",3888.3,Merchandise & Supplies-Wholesale Stores
+03/22/2016,Reid-Ward,-337.32,Communications-Other Telecom
+10/14/2000,Brown-Castro,-3940.69,Business Services-Professional Services
+07/25/1987,"Gonzalez, Cole and Webb",-1225.27,Merchandise & Supplies-General Retail
+04/05/1971,Butler Inc,-2669.71,Restaurant-Restaurant
+11/20/2022,Moore-Bennett,1749.27,Merchandise & Supplies-Clothing Stores
+11/08/2005,Jones-Paul,-2507.76,Merchandise & Supplies-Groceries
+12/09/2005,"Lopez, Espinoza and Myers",1665.09,Communications-Cable & Internet Comm
+08/08/1994,"Nelson, Carter and Sanders",4927.01,Communications-Other Telecom
+06/13/1997,Bates LLC,-2454.87,Merchandise & Supplies-Book Stores
+03/31/1984,Jones-Mckay,3244.21,Business Services-Office Supplies
+08/24/2018,Jacobs Group,-1035.43,Business Services-Other Services
+09/12/1985,Morrow Group,869.17,Restaurant-Bar & Café
+09/04/1972,"Martinez, Christian and Sanchez",3606.38,Transportation-Auto Services
+09/26/1984,Baker-Gillespie,3195.94,Other-Charities
+05/05/1979,Young Ltd,1390.79,Merchandise & Supplies-Groceries
+03/05/2001,Gray Group,1745.84,Merchandise & Supplies-Computer Supplies
+01/10/1987,Rubio-Wise,4266.27,Merchandise & Supplies-Furnishing
+04/09/2003,King Group,4151.81,Merchandise & Supplies-Book Stores
+11/29/2005,"Wilson, Stephens and Liu",239.76,Fees & Adjustments-Fees & Adjustments
+06/17/1986,"Black, Jennings and Fernandez",3243.54,Merchandise & Supplies-Hardware Supplies
+08/21/1971,Clark-Robles,-2857.81,Merchandise & Supplies-Hardware Supplies
+10/27/1993,Hayes LLC,2643.15,Business Services-Office Supplies
+05/18/1983,Green PLC,4674.95,Business Services-Professional Services
+12/02/1970,Saunders Group,3657.32,Merchandise & Supplies-Wholesale Stores
+04/10/2002,Gray-Mueller,-3380.65,Merchandise & Supplies-Internet Purchase
+08/12/2015,"Reynolds, Underwood and Rodriguez",-3757.04,Transportation-Auto Services
+11/21/1993,"Payne, Rivera and Hudson",-4569.87,Merchandise & Supplies-Department Stores
+09/16/1989,"Patrick, Jacobs and Rodriguez",-4247.14,Merchandise & Supplies-Computer Supplies
+07/14/1974,Hamilton Inc,4338.22,Merchandise & Supplies-Clothing Stores
+02/22/1977,Daniels Group,3673.29,Merchandise & Supplies-Mail Order
+03/14/2019,"Lopez, Reid and Jackson",704.44,Restaurant-Restaurant
+04/27/2005,"Johnson, Brewer and Higgins",4912.67,Merchandise & Supplies-Computer Supplies
+02/08/2024,Miller Ltd,-2783.45,Transportation-Parking Charges
+04/27/1991,Brewer-Nash,2286.6,Merchandise & Supplies-Furnishing
+04/18/2022,Mills-Gordon,-352.41,Merchandise & Supplies-Computer Supplies
+10/04/1978,Schultz and Sons,-4953.4,Restaurant-Bar & Café
+12/02/2019,Howell-Goodman,-1614.85,Business Services-Professional Services
+06/20/2000,Bell Group,-2224.42,Restaurant-Bar & Café
+05/11/1988,Lopez Group,-4594.27,Entertainment-Associations
+03/19/2020,Perez-Kane,1459.58,Business Services-Professional Services
+09/07/1999,"Andrews, Morris and Andrews",-1641.16,Merchandise & Supplies-Wholesale Stores
+06/22/2014,"Huffman, Steele and Rush",1744.42,Communications-Cable & Internet Comm
+12/16/2021,Mccoy-Potter,565.45,Other-Miscellaneous
+11/27/1974,Brown-Paul,4530.4,Merchandise & Supplies-Wholesale Stores
+05/20/1978,"Jacobs, Harris and Shields",-1028.29,Business Services-Internet Services
+01/31/2000,Salazar Group,-2935.7,Merchandise & Supplies-Mail Order
+05/28/1993,"Ramsey, Stone and Moore",880.28,Entertainment-Associations
+08/13/2011,Clark Inc,496.92,Communications-Cable & Internet Comm
+02/11/2021,Hubbard PLC,1661.4,Merchandise & Supplies-Wholesale Stores
+04/15/2008,Williams and Sons,1724.69,Merchandise & Supplies-Groceries
+05/25/2003,"Williams, Johnson and Grant",4185.28,Merchandise & Supplies-Hardware Supplies
+06/01/1972,Hampton-Miller,1454.45,Merchandise & Supplies-Pharmacies
+12/13/1971,Brown-Hayden,-881.11,Fees & Adjustments-Fees & Adjustments
+03/12/2005,Zuniga Inc,2748.25,Merchandise & Supplies-General Retail
+01/20/1975,Lynch Inc,3230.18,Other-Miscellaneous
+01/02/2000,James LLC,-3412.73,Merchandise & Supplies-Furnishing
+06/08/1977,"Costa, Dickerson and Mcdonald",4293.09,Transportation-Fuel
+06/18/2003,Glenn-Thomas,4365.49,Merchandise & Supplies-Hardware Supplies
+02/12/2011,Reid Group,-1886.1,Merchandise & Supplies-Department Stores
+07/04/1977,Barrett-Mcgee,4736.4,Entertainment-General Attractions
+12/24/1990,Ray LLC,4901.18,Business Services-Office Supplies
+09/10/1977,Kelly Ltd,2695.73,Transportation-Fuel
+09/03/1976,"Crane, Baker and Moss",2876.93,Transportation-Auto Services
+02/19/2006,"Green, Smith and Mahoney",-3601.14,Merchandise & Supplies-General Retail
+01/27/1996,Russo Group,2539.29,Transportation-Auto Services
+11/30/2012,"Bass, Freeman and Miller",4442.56,Business Services-Internet Services
+10/20/2007,"Hill, Lowery and Holloway",-967.91,Business Services-Other Services
+01/11/1970,Frazier-Blackwell,-2615.96,Transportation-Fuel
+01/24/1972,Henderson Ltd,3608.13,Business Services-Other Services
+11/20/1991,"Green, Jackson and Preston",-2289.54,Merchandise & Supplies-Computer Supplies
+07/29/2000,Bryant-Jennings,1830.16,Merchandise & Supplies-Wholesale Stores
+09/18/1976,Griffith Inc,3701.09,Merchandise & Supplies-Department Stores
+08/13/1983,Gregory PLC,-942.53,Merchandise & Supplies-Pharmacies
+08/03/2004,Moreno-Gallegos,-4598.16,Merchandise & Supplies-Mail Order
+10/29/2005,Schultz-Rivera,2979.43,Other-Miscellaneous
+01/25/1972,Bennett-Hebert,2438.31,Other-Charities
+12/02/2010,Mckay Inc,-1610.21,Fees & Adjustments-Fees & Adjustments
+07/30/2003,Hopkins PLC,3965.74,Business Services-Office Supplies
+10/15/1981,Rivera and Sons,-3011.95,Communications-Other Telecom
+05/29/2010,Ferguson and Sons,2588.88,Merchandise & Supplies-Department Stores
+11/08/2019,"Hayden, Horn and Berry",-1301.76,Business Services-Internet Services
+11/25/1981,"Osborne, Turner and Coleman",-1084.08,Merchandise & Supplies-Book Stores
+05/04/2002,"Rodriguez, Colon and Romero",-3999.0,Merchandise & Supplies-Groceries
+02/17/1985,Reyes-Eaton,-3212.5,Merchandise & Supplies-Book Stores
+03/18/2023,"Ortiz, Shepherd and Weeks",-2496.83,Merchandise & Supplies-Computer Supplies
+02/20/1984,Reed-Parrish,-3537.02,Transportation-Auto Services
+02/03/1985,"Hamilton, Gonzalez and Medina",-322.83,Business Services-Internet Services
+09/30/1979,Davis LLC,2281.22,Merchandise & Supplies-Internet Purchase
+06/29/2005,"Pierce, Medina and Adams",-3765.73,Communications-Other Telecom
+06/25/1996,"Smith, Ryan and Griffin",-1897.62,Merchandise & Supplies-Electronics Stores
+11/03/2011,"Gordon, Odom and Smith",-1588.82,Business Services-Professional Services
+02/12/2003,"Wilkerson, Gamble and Le",-2961.61,Restaurant-Bar & Café
+08/19/2007,"Jennings, Taylor and Johnson",-3684.19,Merchandise & Supplies-Electronics Stores
+09/02/1992,"Floyd, Vargas and Grant",-95.31,Business Services-Professional Services
+09/30/1979,Lopez-Lopez,-1760.97,Communications-Cable & Internet Comm
+12/22/2015,Martin-Butler,4863.4,Other-Charities
+08/24/2012,Hale Inc,2319.78,Entertainment-Associations
+07/24/1989,"Moore, Sullivan and Roberts",2637.24,Merchandise & Supplies-Clothing Stores
+01/19/1973,"Briggs, Gomez and Norris",-3707.33,Merchandise & Supplies-Clothing Stores
+04/03/1977,Williams-Hernandez,2521.29,Business Services-Professional Services
+02/18/1977,"Townsend, Pena and Martin",4414.53,Business Services-Professional Services
+09/30/1978,"Robbins, Long and Stanley",-373.77,Entertainment-General Attractions
+12/12/2004,Ball-White,1363.66,Restaurant-Restaurant
+08/31/1975,Taylor and Sons,-402.62,Transportation-Auto Services
+06/24/2008,Webb-Adams,132.5,Merchandise & Supplies-Wholesale Stores
+02/18/1986,"West, Goodman and Wilson",-2477.28,Merchandise & Supplies-General Retail
+03/15/1994,Brooks-Bush,2214.91,Merchandise & Supplies-General Retail
+02/15/2013,"Mullins, Cobb and Patterson",-4971.09,Communications-Cable & Internet Comm
+06/04/1987,Rivera-Horn,-1267.69,Business Services-Internet Services
+05/21/1974,Dyer-Braun,1500.57,Merchandise & Supplies-Computer Supplies
+08/28/1982,Henderson Group,-1402.8,Business Services-Professional Services
+12/10/1996,"Smith, Hensley and Pena",-688.09,Other-Miscellaneous
+03/23/2003,Morris-Greene,-4601.53,Business Services-Internet Services
+01/30/2019,Hernandez-Lewis,465.51,Merchandise & Supplies-Electronics Stores
+09/23/2014,Galloway PLC,3908.19,Merchandise & Supplies-Wholesale Stores
+04/23/1982,"Williams, Mclaughlin and Madden",-1257.44,Merchandise & Supplies-Book Stores
+08/30/2000,Wall-Nelson,378.63,Merchandise & Supplies-Internet Purchase
+09/07/2004,Chapman Inc,1260.56,Transportation-Fuel
+03/31/1970,"Martinez, Roman and Russo",4304.75,Business Services-Professional Services
+11/27/1974,"Thompson, White and Porter",-4407.01,Restaurant-Restaurant
+09/09/1998,Moses-Pace,188.07,Business Services-Internet Services
+06/25/1982,Ramirez-Martinez,2693.4,Merchandise & Supplies-Mail Order
+10/03/1984,"Diaz, Fisher and Moss",-2432.99,Communications-Other Telecom
+08/10/2021,Le-Rodriguez,-2503.66,Other-Charities
+09/23/1988,Nash-Hampton,3179.01,Entertainment-General Attractions
+02/24/1977,"Davenport, Jones and Cooper",-2813.85,Fees & Adjustments-Fees & Adjustments
+01/31/2008,Robbins Ltd,2869.72,Merchandise & Supplies-Groceries
+05/28/2009,"Duncan, Miller and Cardenas",-168.56,Business Services-Mailing & Shipping
+03/12/2005,Sims-Blair,4132.56,Merchandise & Supplies-Pharmacies
+08/05/2001,Harris-Navarro,-4288.63,Restaurant-Bar & Café
+10/06/2015,Harding and Sons,-4861.26,Merchandise & Supplies-Groceries
+02/06/2022,"Oneal, Floyd and Pope",-1262.35,Merchandise & Supplies-Book Stores
+02/17/1981,Martinez-Miller,-1611.48,Merchandise & Supplies-Hardware Supplies
+06/21/1991,Avery-Jackson,3915.51,Entertainment-General Attractions
+09/07/2020,Gonzalez and Sons,-4108.62,Merchandise & Supplies-Internet Purchase
+02/25/1983,Mccoy-Parks,44.51,Communications-Other Telecom
+03/10/2016,Miller and Sons,-1068.96,Fees & Adjustments-Fees & Adjustments
+07/19/1982,Kim-Scott,-2347.04,Communications-Other Telecom
+05/29/1972,Lopez Group,-3792.24,Merchandise & Supplies-Clothing Stores
+10/18/1973,Jones LLC,-3265.65,Restaurant-Restaurant
+04/16/1995,Wagner Group,3682.29,Merchandise & Supplies-Department Stores
+11/02/2016,"Gross, Sandoval and Drake",1335.89,Restaurant-Bar & Café
+12/10/1996,Wilson LLC,1108.3,Business Services-Professional Services
+10/27/2005,Smith Inc,-3393.5,Merchandise & Supplies-Internet Purchase
+02/10/1994,Riley-Baker,3187.84,Entertainment-General Attractions
+09/06/1999,"Hayes, Mckinney and Washington",4014.78,Merchandise & Supplies-Internet Purchase
+04/18/1975,Carney-Ruiz,2399.46,Other-Miscellaneous
+12/03/2014,"Rivera, Olson and Weiss",3055.97,Business Services-Other Services
+08/07/1993,"Brooks, Cordova and Thompson",1212.82,Merchandise & Supplies-Book Stores
+03/14/2007,Walter Group,4384.62,Fees & Adjustments-Fees & Adjustments
+05/08/2012,Davis-Andrews,-4217.91,Entertainment-General Attractions
+09/12/1978,"Galloway, Castaneda and Bautista",81.52,Fees & Adjustments-Fees & Adjustments
+02/17/2003,Green Group,119.39,Transportation-Auto Services
+02/18/2006,Hill Ltd,4656.16,Merchandise & Supplies-General Retail
+11/04/1989,Sherman-Conley,-3661.39,Business Services-Office Supplies
+04/09/2022,Chen and Sons,-2576.5,Merchandise & Supplies-Electronics Stores
+07/07/1982,"Miller, Daugherty and Espinoza",-2381.7,Transportation-Auto Services
+03/19/2011,"Jones, Duarte and Thomas",-11.09,Entertainment-General Attractions
+02/24/2007,"Jones, Robbins and Romero",-3725.97,Merchandise & Supplies-Wholesale Stores
+02/04/1972,Kelly-Jones,4260.29,Merchandise & Supplies-Clothing Stores
+02/01/2012,Gill-Morales,756.29,Merchandise & Supplies-Computer Supplies
+12/18/1985,Bennett-Tapia,-1343.3,Business Services-Other Services
+08/05/1991,"Jacobs, Andrade and Jones",-2491.58,Merchandise & Supplies-Groceries
+02/21/1981,"Garcia, Bridges and Cox",-2605.22,Business Services-Other Services
+06/17/1976,"Leach, Wood and Hayes",4692.41,Merchandise & Supplies-Wholesale Stores
+02/09/2003,Harmon-Lee,3833.73,Merchandise & Supplies-Clothing Stores
+08/04/2023,"Hayden, Wyatt and Rios",-727.47,Fees & Adjustments-Fees & Adjustments
+04/05/1991,Guerra and Sons,-338.35,Communications-Other Telecom
+05/23/2000,"Davis, Hayes and Fleming",-2755.87,Entertainment-Associations
+05/17/2001,"Love, Lee and Miles",3511.44,Entertainment-General Attractions
+06/11/1998,Armstrong-Velazquez,-2965.52,Other-Miscellaneous
+02/17/2018,"Carter, Reese and Rivera",4638.62,Communications-Other Telecom
+08/09/2011,"Davidson, Lopez and Hayes",1165.19,Merchandise & Supplies-Wholesale Stores
+10/06/1990,"Vazquez, Jackson and Herrera",4686.01,Merchandise & Supplies-Wholesale Stores
+05/04/2011,Coleman Inc,-957.97,Business Services-Professional Services
+09/03/2008,Obrien Ltd,-1732.59,Merchandise & Supplies-Book Stores
+09/18/2020,"Hanna, Frye and Guzman",4209.51,Business Services-Office Supplies
+02/18/2018,Woodard LLC,-61.6,Business Services-Other Services
+08/31/1986,Smith-Sparks,-713.72,Communications-Other Telecom
+01/08/1974,Howe-Baker,2216.47,Other-Charities
+04/01/1977,"Craig, Hodges and Perez",1794.23,Merchandise & Supplies-Internet Purchase
+06/22/1974,"White, Young and Brooks",-4039.92,Business Services-Office Supplies
+02/15/2002,Ingram PLC,4118.07,Business Services-Office Supplies
+02/05/2015,"Wilson, Martinez and Jones",-1027.26,Merchandise & Supplies-Furnishing
+07/30/1986,Powell-Henderson,3445.34,Merchandise & Supplies-Wholesale Stores
+02/15/1974,"Gordon, Price and Johnson",4671.46,Merchandise & Supplies-General Retail
+02/02/2014,"Rocha, Brennan and Murray",4237.58,Restaurant-Restaurant
+07/04/2000,Mclean-Martin,3571.41,Merchandise & Supplies-Department Stores
+01/16/2009,"Mendoza, Mathews and Simmons",1778.54,Fees & Adjustments-Fees & Adjustments
+04/06/2018,"Greer, Jackson and Simpson",2918.62,Entertainment-General Attractions
+05/27/1983,Garcia-Soto,3252.93,Other-Miscellaneous
+09/27/2017,"Braun, Wilson and Mcdonald",1939.31,Communications-Cable & Internet Comm
+09/27/1984,"Kennedy, Arnold and Miller",3622.5,Merchandise & Supplies-Computer Supplies
+10/19/1998,"Griffin, Lewis and Mclaughlin",-3628.09,Merchandise & Supplies-Electronics Stores
+01/14/2018,"Wheeler, Wilkinson and Jenkins",724.07,Merchandise & Supplies-Computer Supplies
+12/31/1975,"Lindsey, Hansen and Khan",4027.99,Merchandise & Supplies-Wholesale Stores
+02/21/1991,Martin-Wright,3843.93,Merchandise & Supplies-General Retail
+03/07/1977,"Webb, Rivera and White",1016.99,Business Services-Internet Services
+02/13/1988,"Park, Sweeney and Williams",-4400.91,Transportation-Auto Services
